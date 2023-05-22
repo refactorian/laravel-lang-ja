@@ -1,2 +1,2 @@
-# laravel-lang (WIP)
-Laravel Localization Files
+# laravel-lang-ja (Work In Progress)
+Laravel Japanese Language Files
